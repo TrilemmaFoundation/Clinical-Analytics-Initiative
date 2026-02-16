@@ -35,6 +35,12 @@ Welcome to the open source commons for the [Hypertrial.ai](https://www.hypertria
 
 ---
 
+## SurgRisk 
+
+SurgRisk is a pre-operative risk analytics platform that predicts patient-specific surgical complexity, resource utilization, and discharge risk before scheduling.
+
+---
+
 ## 🚀 Find How You Will Contribute
 
 | Path                                  | Description                                                                             | Link                                                                                  |
