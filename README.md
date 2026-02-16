@@ -53,7 +53,7 @@ Welcome to the open source commons for the [Hypertrial.ai](https://www.hypertria
 
 [Trilemma Foundation](https://www.trilemma.foundation/) sponsors capstone, practicum, and internship projects with leading STEM programs around the world. Students contribute to open-source research, receive mentorship, and build a public portfolio of industry work.  
 
-We are working to host Clinical Analytics casptone projects soon!  
+⏳ We are working to host Clinical Analytics casptone projects soon!  
 
 👉 [View other capstone projects or inquire about collaborating](https://www.trilemma.foundation/projects).  
 
@@ -61,7 +61,7 @@ We are working to host Clinical Analytics casptone projects soon!
 
 ## Contribute Open Source
 
-We are working to launch the **SurgRisk Python library** soon!  
+⏳ We are working to launch the **SurgRisk Python library** soon!  
 
 The SurgRisk Python library will encompass the core logic powering our microproduct. It will be open source, actively maintained, and designed for contributors of all skill levels.
 
