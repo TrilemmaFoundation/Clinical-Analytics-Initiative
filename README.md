@@ -40,7 +40,7 @@ Welcome to the open source commons for the [Hypertrial.ai](https://www.hypertria
 | Path                                  | Description                                                                             | Link                                                                                  |
 |---------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | **🎓 University Capstones**           | Trilemma Foundation capstone projects hosted at leading STEM programs worldwide. | [Jump to University Capstone Projects](#university-capstone-projects)                                       |
-| **🔓 Contribute Open Source**         | Contribute to the main logic powering our microproduct via our SurgRisk python library. | Coming soon                                                    |
+| **🔓 Contribute Open Source**         | Contribute to the main logic powering our microproduct via our SurgRisk python library. | [Jump to Contribute Open Source](#contribute-open-source)                                           |
 | **🏆 Tournaments**                    | Global, free-to-enter competitions. Prove your performance in public. | [Jump to Tournaments](#tournaments)                               |
 
 <p align="center">
@@ -78,6 +78,6 @@ This is your chance to:
 
 Tournaments are **equal-opportunity competitions** where talent proves itself, and gets directly rewarded.
 
-📢 Visit [trilemma.foundation/tournaments](https://www.trilemma.foundation/tournaments) to stay up to date with the latest tournaments
+👉 [Visit trilemma.foundation/tournaments](https://www.trilemma.foundation/tournaments) to stay up to date with the latest tournaments
 
 ---
